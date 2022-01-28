@@ -17,4 +17,8 @@
     <ProjectReference Include="..\Statistics\Statistics.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Alerters\" />
+  </ItemGroup>
+
 </Project>
